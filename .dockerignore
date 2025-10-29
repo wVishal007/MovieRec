@@ -1,0 +1,62 @@
+# --------------------------
+# Python bytecode
+# --------------------------
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pyc
+*.pkl
+*.joblib
+
+# --------------------------
+# Virtual environments
+# --------------------------
+venv/
+clientenv/
+env/
+.env/
+
+# --------------------------
+# Node / frontend dependencies
+# --------------------------
+client/node_modules
+client/dist/spa/node_modules
+
+# --------------------------
+# Build / cache folders
+# --------------------------
+*.builder
+dist/
+build/
+
+# --------------------------
+# Jupyter Notebook checkpoints
+# --------------------------
+.ipynb_checkpoints/
+
+# --------------------------
+# IDE / Editor specific
+# --------------------------
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# --------------------------
+# OS files
+# --------------------------
+.DS_Store
+Thumbs.db
+
+# --------------------------
+# Logs
+# --------------------------
+*.log
+
+# --------------------------
+# Data
+# --------------------------
+data/
+
+# ---------------
