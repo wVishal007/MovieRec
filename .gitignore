@@ -7,7 +7,7 @@ __pycache__/
 *.pyd
 *.pyc
 *.pkl
-*.joblib
+# *.joblib
 *.env
 .builder
 
